@@ -1,6 +1,6 @@
 name: component-a
 title: Руководство администратора
-version: 1.5.6
+version: 1.0.0
 start_page: inline-text-formatting.adoc
 asciidoc:
   attributes:
